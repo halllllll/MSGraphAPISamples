@@ -7,3 +7,7 @@
 アクセストークンは`jwt`形式であり，複合するといろいろな情報が見れる．
 
 [https://jwt.ms](https://jwt.ms/)
+
+# エンドポイント
+
+`https://login.microsoftonline.com/{{TenantID}}/oauth2/v2.0/token`
